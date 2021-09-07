@@ -1,20 +1,21 @@
-#persönlichde Daten
-*ich bin Fahad
-*ich komme aus Syrien*
+# persönlichde Daten
+
+**ich bin Fahad**
+**ich komme aus Syrien**
 ich wohne in HH
 
 
 
-#lieblingessen
-Beriani
+# lieblingessen
+ Beriani
 
-#Hobbys
+# Hobbys
 _Fahrrad fahren_
-Fußball schauen
+_Fußball schauen_
 Schwimmen
 
 
-Beruf 
+# Beruf 
 Erzieher
 
 
